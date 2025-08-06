@@ -13,7 +13,7 @@ public class Solution {
         int l2 = obj.nextInt();
         int m2 = obj.nextInt();
         double midl =(l1 + l2)/2;
-        double midm =(m1 + m2)/ 2;
+        double midm =(m1 + m2)/2;
         System.out.printf("Binoy's house is located at (%.1f,%.1f)",midl,midm);
     }
 }
